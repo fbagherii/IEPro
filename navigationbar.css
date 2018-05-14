@@ -1,0 +1,39 @@
+﻿
+
+#nav {
+    width: 900px;
+    
+    font-size: 16px;
+    list-style-type: none;
+    align-content: center;
+    font-size: 22px;
+    height: 27px;
+    background-color:white;
+    margin-top:0px;
+    margin-right:280px;
+  
+}
+
+.li1 {
+    
+   direction:ltr;
+    width: 120px;
+    float:right;
+    list-style-type: none;
+
+}
+
+.a1{
+   
+    color: black;
+    text-decoration: none;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color:blue;
+}
+
+

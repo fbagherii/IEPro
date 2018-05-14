@@ -1,0 +1,180 @@
+﻿#fdiv{
+    width:750px;
+    height:100px;
+    background-color:white;
+    margin-right:280px;
+    margin-top:30px;
+    float:right;
+    
+
+}
+
+
+#pr3{
+    padding-top:15px;
+    font-size:16px;
+    padding-right:15px;
+}
+#pr4{
+    margin-top:-12px;
+    margin-right:10px;
+}
+#sec{
+    float:right;
+    width:320px;
+    height:210px;
+    background-color:white;
+    margin-right:280px;
+}
+#pr5 {
+    padding-top: 15px;
+    font-size: 16px;
+    padding-right: 15px;
+}
+#pr6 {
+    margin-top: -12px;
+    margin-right: 10px;
+}
+#pr7 {
+    margin-top: 30px;
+    margin-right: 10px;
+}
+#third {
+    margin-top: -290px;
+    width: 320px;
+    height: 280px;
+    margin-right: 280px;
+    background-color: white;
+    box-shadow: 5px 10px 5px rgb(218,218,218);
+    border-radius:5px;
+    margin-left:10px;
+
+}
+#select {
+    margin-top: -25px;
+    margin-right: 10px;
+    width: 300px;
+    border-radius: 20px;
+    float: right;
+    height: 35px;
+    background-color: rgb(240,242,247);
+}
+#pr8{
+    font-size:12px;
+    color:rgb(59,85,230);
+    margin-right:15px;
+   margin-bottom:60px;
+   margin-top:-20px;
+}
+#shomare {
+    margin-top: 0px;
+    margin-right: 10px;
+    width: 290px;
+    border-radius: 20px;
+    float:right;
+    height:35px;
+    background-color:rgb(240,242,247);
+}
+#pr9 {
+    font-size: 12px;
+    color: rgb(59,85,230);
+    margin-right: 15px;
+    margin-top:-40px;
+    padding-bottom:20px;
+}
+#pr10 {
+    margin-top: 40px;
+    margin-right: 10px;
+    font-size: 12px;
+    color: rgb(59,85,230);
+    padding-bottom:-15px;
+}
+#sabtdarkhast {
+    color: white;
+    border-radius:20px;
+    margin-right:15px;
+    background-color: rgb(59,85,230);
+    width:290px;
+    height:35px;
+    border-collapse:collapse;
+    margin-top:30px;
+}
+#poshtibani{
+    margin-right:100px;
+    margin-top:10px;
+    width: 200px;
+    height: 53px;
+    color: white;
+    border-radius: 20px 20px 0px 0px;
+    background-color: rgb(59,85,230);
+    padding-right:40px;
+
+}
+#ax4 {
+    float: right;
+    position: absolute;
+    margin-right: 120px;
+    margin-top: 14px;
+}
+.popup {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+    /* The actual popup (appears on top) */
+    .popup .popuptext {
+        visibility: hidden;
+        width: 250px;
+        height:350px;
+        background-color: lightgray;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 8px 0;
+        position: absolute;
+        z-index: 1;
+        bottom: 125%;
+        left: 50%;
+        margin-left: -200px;
+    }
+
+        /* Popup arrow */
+        .popup .popuptext::after {
+            content: "";
+            position: absolute;
+            top: 100%;
+            left: 50%;
+            margin-left: -5px;
+            border-width: 5px;
+            border-style: solid;
+            border-color: lightgrey transparent transparent transparent;
+        }
+
+    /* Toggle this class when clicking on the popup container (hide and show the popup) */
+    .popup .show {
+        visibility: visible;
+        -webkit-animation: fadeIn 1s;
+        animation: fadeIn 1s
+    }
+
+/* Add animation (fade in the popup) */
+@-webkit-keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}

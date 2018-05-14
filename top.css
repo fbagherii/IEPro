@@ -1,0 +1,88 @@
+﻿
+
+#header1 {
+    width: 1200px;
+    height: 45px;
+    background-color:white;
+    margin-right:80px;
+
+   
+}
+
+.but {
+    text-align: center;
+    height: 30px;
+    width: 95px;
+   float:right;
+    margin-right:55px;
+    margin-top:8px;
+  background-color:white;
+    border-color: black;
+    border-radius: 30px; 
+    border-collapse:collapse;
+}
+
+
+
+#b2 {
+    
+   margin-right:2px;
+   background-color:rgb(102,102,102);
+   color:white;
+   
+}
+    #b2:hover {
+        background-color: rgb(59,85,230);
+        border-color: rgb(59,85,230);
+    }
+
+
+#h {
+   float:right;
+    margin-right:25%;
+     margin-top:0px;
+    font-size: 26px;
+    font-weight:100;
+    font-size:20px;
+}
+
+#search {
+    direction:rtl;
+    height: 30px;
+    width: 200px;
+    float: right;
+    margin-right:190px;
+    margin-top:8px;
+    background-color: white;
+    border-color: black;
+    border-radius: 30px;
+}
+    #search:hover {
+        border-color: rgb(59,85,230);
+    }
+
+#sbutton {
+    margin-right: -37px;
+    margin-top: 10px;
+    float: right;
+    color: white;
+    width: 30px;
+    height: 30px;
+    background-color: white;
+    border-radius: 20px;
+}
+
+.fa-search {
+    margin-right: -37px;
+    padding-top:7px;
+    margin-top: 10px;
+    float: right;
+    font-size:20px;
+    width: 30px;
+    height: 25px;
+    background-color: white;
+    border-radius: 20px;
+}
+.fa-search:hover{
+    color:rgb(59,85,230);
+}

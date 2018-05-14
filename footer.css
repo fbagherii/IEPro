@@ -1,0 +1,147 @@
+﻿#footer{
+    margin-top:30px;
+    background-color:rgb(239,239,239);
+    width:100%;
+    height:160px;
+}
+
+.li2{
+    margin-top:7px;
+    margin-right:170px;
+    list-style-type:none;
+
+    
+}
+#khadamat{
+    font-size:14px;
+}
+#khadamat1 {
+    font-size: 14px;
+}
+.li3 {
+   list-style-type:none;
+   margin-right:330px;
+   position:relative;
+   margin-top:-46px;
+   padding-top:-10px;
+  
+}
+#hh{
+    margin-right:510px;
+    margin-top:-96px;
+    font-size:14px;
+    font-weight:200;
+}
+#copyright{
+    margin-right:820px;
+    margin-top:-110px;
+
+}
+#f1:hover{
+    background-color:rgb(59,85,230);
+}
+#f2:hover {
+    background-color: rgb(59,85,230);
+}
+#f3:hover {
+    background-color: rgb(59,85,230);
+}
+#f4:hover {
+    background-color: rgb(59,85,230);
+}
+#f5:hover {
+    background-color: rgb(59,85,230);
+}
+#f6:hover {
+    background-color: rgb(59,85,230);
+}
+#f1 {
+    text-align: center;
+    font-size: 25px;
+    width: 37px;
+    height: 37px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 5px;
+    border-radius: 25px;
+    background: gray;
+    color: white;
+    margin-left: 100%;
+    margin-right:620px;
+
+    
+}
+    
+#f2 {
+
+    text-align: center;
+    font-size: 25px;
+    width: 37px;
+    height: 37px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 5px;
+    border-radius: 25px;
+    background: gray;
+    color: white;
+    margin-left: 100%;
+    margin-right: 575px;
+    margin-top:-36px;
+}
+#f3 {
+    text-align: center;
+    font-size: 25px;
+    width: 37px;
+    height: 37px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 5px;
+    border-radius: 25px;
+    background: gray;
+    color: white;
+    margin-left: 100%;
+    margin-right: 530px;
+    margin-top: -37px;
+}
+#f4 {
+    text-align: center;
+    font-size: 25px;
+    width: 37px;
+    height: 37px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 5px;
+    border-radius: 25px;
+    background: gray;
+    color: white;
+    margin-left: 100%;
+    margin-right: 620px;
+    margin-top:0px;
+}
+#f5 {
+    text-align: center;
+    font-size: 25px;
+    width: 37px;
+    height: 37px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 5px;
+    border-radius: 25px;
+    background: gray;
+    color: white;
+    margin-left: 100%;
+    margin-right: 575px;
+    margin-top: -35px;
+}
+#f6 {
+    text-align: center;
+    font-size: 25px;
+    width: 37px;
+    height: 37px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 5px;
+    border-radius: 25px;
+    background: gray;
+    color: white;
+    margin-left: 100%;
+    margin-right: 530px;
+    margin-top: -37px;
+}
+.fa-facebook:hover{
+    color:blue;
+}

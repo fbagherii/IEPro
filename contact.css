@@ -1,0 +1,21 @@
+﻿@import'top.css';
+@import'navigationbar.css';
+@import'blockbuttons.css';
+@import'main_contact.css';
+@import'footer.css';
+
+body {
+    direction: rtl;
+}
+
+@font-face {
+    font-family: 'Shabnam';
+    src: url('font/Shabnam.eot') format('eot'), /* IE6–8 */
+    url('font/Shabnam.woff2') format('woff2'), /* Chrome36+, Opera24+*/
+    url('font/Shabnam.woff') format('woff'); /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+}
+
+* {
+    font-family: "Shabnam";
+    font-size: 13px;
+}
